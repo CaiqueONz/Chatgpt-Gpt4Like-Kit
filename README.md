@@ -9,5 +9,4 @@ This project is the first version so it may not work.
 
 
 # Install via linux
-
-
+```git clone https://github.com/CaiqueONz/Chatgpt-Gpt4Like-Kit.git``` 
